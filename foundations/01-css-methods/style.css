@@ -1,0 +1,11 @@
+/* styles.css */
+
+div {
+    color: yellow;
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: purple;
+    height: auto;
+    width: 275px;
+  }
+  
+ 
